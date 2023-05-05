@@ -11,7 +11,7 @@ Description:
 
 	This program is meant to be run from the command-line and produce a frequency analysis on 3 given files.
 
-	Programming Project 1's objective is to take 3 test files of Shakespeare (.TXT, .ECB, and .CBC) and output the frequency distributions of characters in a horizontal
+	Programming Project 1's objective is to take 3 test files of Shakespeare (.TXT, .DES, and .CBC) and output the frequency distributions of characters in a horizontal
 	bar graph, the ascii value of the character,  as well as the counts for each character's appearance in a file. At the end of the graph there will be a summary line 
 	containing the MIN, MAX, AVG, and DEV.
 
